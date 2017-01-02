@@ -1,0 +1,42 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="eco-svet.ru" resolutions="1x" timestamp="1483384625733">
+  <folder name="css">
+    <file name="site_global.css" crc="190860489"/>
+    <file name="index.css" crc="324348645" ref="index"/>
+    <file name="iefonts_index.css" crc="533160578" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u129.php" crc="3908893955" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u663-3.png" crc="78927487" ref="index"/>
+    <file name="вставленные-svg-93857x114.svg" crc="389365795" seo="true" ref="index"/>
+    <file name="вставленные svg 93857x114_poster_.png" crc="4247841729" ref="index"/>
+    <file name="u130-17.png" crc="4135991492" ref="index"/>
+    <file name="u130-17-r.png" crc="302369690" ref="index"/>
+    <file name="u130-17-m.png" crc="302369690" ref="index"/>
+    <file name="u130-17-fs.png" crc="4135991492" ref="index"/>
+    <file name="ыыыыыыыыыы.jpg" crc="431162898" ref="index"/>
+    <file name="лот.jpg" crc="4258299250" ref="index"/>
+    <file name="вставленные-svg-135571x114.svg" crc="493745269" seo="true" ref="index"/>
+    <file name="вставленные svg 135571x114_poster_.png" crc="476394761" ref="index"/>
+    <file name="отз.jpg" crc="3893270739" ref="index"/>
+    <file name="от.jpg" crc="3961135975" ref="index"/>
+    <file name="отзй.jpg" crc="218598973" ref="index"/>
+  </folder>
+  <file name="index.html" crc="434275280" seo="true" mt="1483184908897" redirect="true"/>
+</manifest>
